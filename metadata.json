@@ -1,0 +1,7 @@
+
+{
+  "name": "Clipboard Pro - Web App",
+  "description": "A clipboard manager web application that saves your copied text, allows pinning, searching, and easy re-copying. It uses browser local storage for persistence.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
